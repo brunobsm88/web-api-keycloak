@@ -35,3 +35,5 @@ curl --location 'https://localhost:7282/api/Values/get-admin' \
 Now you should receive an HTTP 200 response:
 
 ![image](https://github.com/user-attachments/assets/45ece1f7-f32c-44f9-bfcd-a0b23a40349f)
+
+te
